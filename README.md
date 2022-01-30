@@ -1,4 +1,4 @@
-# Katas - Ejercicios de programación
+# Katas - Ejercicios de programación resueltos en python
 
 Puedes visualizar los enunciados de los ejercicios en mi notion.
 https://feather-wavelength-34f.notion.site/Katas-bbe1e103fe1a4a4ebe76bc39328ba387
